@@ -31,8 +31,8 @@ const projects = [
   title: "Maha Parfum",
   description: "Aplikasi toko parfum berbasis Vue dan Express.",
   image: "https://example.com/maha-parfum.jpg",  // URL gambar
-  tech: ["Vue", "Tailwind", "Node.js"],         // Array teknologi
-  link: "https://maha-parfum.vercel.app"        // Link ke project
+  tech: ["React.js", "Express.js", "MongoDB"],         // Array teknologi
+  link: "https://github.com/wakabi09/parfumeeeeee.git"        // Link ke project
 }
 ]
 
